@@ -1,0 +1,45 @@
+.container{
+    background-image: url(greensmoke.jpg);
+}
+
+.carre{
+    left: 41%;
+}
+
+.triangle{
+    rotate: -90deg;
+    left: 77%;
+    top: 224%;
+}
+
+.triangle2{
+    left: 77%;
+    rotate: 90deg;
+    top: 350%;
+}
+
+
+.triangle3{
+    rotate: 41deg;
+    top: 710%;
+    left: 12%;
+}
+
+.triangle4{
+    left: 22%;
+    rotate: 400deg;
+    top: 242%;
+}
+
+
+.triangle5{
+    top: 420%;
+    rotate: 221deg;
+    left: 22%;
+}
+
+.parallelogram{
+    rotate: 175deg;
+    left: 48%;
+    top: 556%;
+}

@@ -1,0 +1,42 @@
+.carre{
+    rotate: 45deg;
+    left: 44%;
+    top: 288%;
+}
+
+.triangle{
+    rotate: 180deg;
+    left: 53%;
+    top: 126%;
+}
+
+.triangle2{
+    rotate: -91deg;
+    top: 320%;
+    left: 34%;
+}
+
+.triangle3{
+    rotate: 46deg;
+    top: 390%;
+    left: 50%;
+}
+
+.triangle4{
+    rotate: 90deg;
+    left: 27%;
+    top: 0%;
+}
+
+
+.triangle5{
+    top: 130%;
+    left: 15%;
+}
+
+
+.parallelogram{
+    rotate: 360deg;
+    top: 511%;
+    left: 12%;
+}
